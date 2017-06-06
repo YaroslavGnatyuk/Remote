@@ -3,5 +3,7 @@
  */
 public class FirstClass {
     String firstname;
+    String lastname;
     int age;
+
 }
